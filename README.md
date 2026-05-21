@@ -1,4 +1,3 @@
-# Re-entry-Vehicle-Aero-Thermal-Analysis
 # Re-entry Vehicle Aero-Thermal Analysis
 **Dragon-style blunt body capsule | Mach 5–25 | ANSYS Fluent + Thermal**
 
