@@ -1,0 +1,21 @@
+# ANSYS large binary files
+*.wbpj
+*.wbpz
+*.cas.h5
+*.dat.h5
+*.cas.gz
+*.dat.gz
+*.msh.gz
+# Keep .msh files under 100MB
+*.encas
+*.res
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
