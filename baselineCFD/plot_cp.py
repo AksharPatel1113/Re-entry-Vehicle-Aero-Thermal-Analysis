@@ -1,7 +1,7 @@
 """
 Cp Distribution Plot — Dragon Capsule Re-entry CFD
 Mach 5, k-omega SST, ANSYS Fluent 2026 R1
-Author: [Your Name] | Date: May 2026
+Author: Akshar Patel | Date: May 2026
 """
 
 import numpy as np
