@@ -2,7 +2,7 @@
 Mesh Independence Study — Dragon Capsule Re-entry CFD
 Mach 5, Altitude ~40km, Inviscid (Euler) Solver
 ANSYS Fluent 2026 R1 Student Edition
-Author: [Your Name] | Date: May 2026
+Author: Akshar Patel | Date: May 2026
 """
 
 import numpy as np
